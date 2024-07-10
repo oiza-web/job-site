@@ -1,5 +1,5 @@
-
-  [
+{
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -83,5 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "830b",
+      "title": "Test",
+      "type": "Full-Time",
+      "description": "Testing",
+      "location": "Jupiter",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Google",
+        "description": "Google",
+        "contactEmail": "google@gmail.com",
+        "contactPhone": ""
+      }
     }
   ]
+}
